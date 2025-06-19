@@ -1,0 +1,17 @@
+[project]
+name = "simple-chatagent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chainlit>=2.5.5",
+    "chromadb>=1.0.13",
+    "dotenv>=0.9.9",
+    "langchain>=0.3.25",
+    "langchain-community>=0.3.25",
+    "openai-agents>=0.0.19",
+    "pymupdf>=1.26.1",
+    "pypdf2>=3.0.1",
+    "sentence-transformers>=4.1.0",
+]
