@@ -11,6 +11,7 @@ This app is a showcase of my expertise in **LLM orchestration** and **knowledge-
 - 📧 **Email**: [musafirbaltistani786@gmail.com](mailto:musafirbaltistani786@gmail.com)  
 - 🧑‍💻 **GitHub**: [github.com/123Mismail](https://github.com/123Mismail)  
 - 💼 **LinkedIn**: [linkedin.com/in/muhammad-ismail-2a42822ba](https://www.linkedin.com/in/muhammad-ismail-2a42822ba/)
+- 🟢📱**Whatsapp**: (03483144231)
 
 ---
 
